@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Abhishek Desai
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijay173&label=Views&color=blue&style=plastic" alt="abhidesai6" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhidesai6&label=Views&color=blue&style=plastic" alt="abhidesai6" /> </p>
 
 Here are some ideas to get you started:
 
