@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br>
 
+---
+
 ### Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -36,8 +38,6 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/abhidesai6/
 [linkedin]: https://www.linkedin.com/in/abhishek-desai-4962ba171/
 [facebook]: https://www.facebook.com/profile.php?id=100009261824024
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=abhidesai6&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=abhidesai&layout=compact&theme=radical" />
-</a>
+
+
+
