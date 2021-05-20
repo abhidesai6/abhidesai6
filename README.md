@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidesai6&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=abhidesai6&theme=tokyonight)
